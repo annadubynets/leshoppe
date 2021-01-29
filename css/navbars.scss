@@ -1,0 +1,35 @@
+@import "variables";
+@import "mixins";
+
+// ------------------------
+// Bootstrap navbar
+// ------------------------
+
+.navbar-light .navbar-nav .nav-link {
+  font-style: normal;
+  font-weight: 600;
+  font-size: $font-size-xs;
+  color: $green-70;
+  line-height: 18px;
+  text-transform: uppercase;
+  margin: 32px 11px;
+  padding: 0;
+  display: inline-block;
+  @include max-screen($lg-screen) {
+    margin: 24px 20px;
+  }
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}
+
+.navbar-light .navbar-toggler-icon {
+  color: $green-70;
+}
+
+.navbar-light {
+  @include max-screen($sm-screen) {
+    box-shadow: 0px 1px 3px rgba(40, 68, 88, 0.22);
+  }
+}

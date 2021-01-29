@@ -1,0 +1,218 @@
+@import "../fontawesome-free-5.15.1-web/css/all.css";
+@import "bootstrap.min.css";
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url("../fonts/Montserrat-Light.eot");
+  src: url("../fonts/Montserrat-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat-Light.woff2") format("woff2"), url("../fonts/Montserrat-Light.woff") format("woff"), url("../fonts/Montserrat-Light.ttf") format("truetype"), url("../fonts/Montserrat-Light.svg#Montserrat-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../fonts/Montserrat-Bold.eot");
+  src: url("../fonts/Montserrat-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat-Bold.woff2") format("woff2"), url("../fonts/Montserrat-Bold.woff") format("woff"), url("../fonts/Montserrat-Bold.ttf") format("truetype"), url("../fonts/Montserrat-Bold.svg#Montserrat-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Microsoft Sans Serif";
+  src: url("../fonts/MicrosoftSansSerif.eot");
+  src: url("../fonts/MicrosoftSansSerif.eot?#iefix") format("embedded-opentype"), url("../fonts/MicrosoftSansSerif.woff2") format("woff2"), url("../fonts/MicrosoftSansSerif.woff") format("woff"), url("../fonts/MicrosoftSansSerif.ttf") format("truetype"), url("../fonts/MicrosoftSansSerif.svg#MicrosoftSansSerif") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.font-size-xxs {
+  font-size: 12px;
+}
+
+.font-size-xs {
+  font-size: 15px;
+}
+
+.font-size-sm {
+  font-size: 16px;
+}
+
+.font-size-md {
+  font-size: 17px;
+}
+
+.font-size-lg {
+  font-size: 18px;
+}
+
+.font-size-xl {
+  font-size: 20px;
+}
+
+.font-size-xxl {
+  font-size: 22px;
+}
+
+h1 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 86px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+@media screen and (max-width: 992px) {
+  h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 576px) {
+  h1 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+}
+
+.description {
+  font-family: "Montserrat-Light", sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+@media screen and (max-width: 992px) {
+  .description {
+    font-size: 15px;
+    line-height: 22px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+.pt-150 {
+  padding-top: 150px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.btn-success {
+  font-family: "Microsoft Sans Serif", sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  background-color: #3c8946;
+  color: #FFFFFF;
+  border-radius: 25px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  padding: 14px 22px;
+}
+
+.btn-success:active, .btn-success:focus, .btn-success:hover {
+  background-color: #FFFFFF !important;
+  border-color: #3c8946 !important;
+  color: #3c8946 !important;
+  outline: none !important;
+  box-shadow: none;
+}
+
+.btn:active, .btn:focus {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.bg-white {
+  background-color: #FFFFFF;
+}
+
+.bg-green-53 {
+  background-color: #358640;
+}
+
+.bg-green-40 {
+  background-color: #a2c428;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-white {
+  color: #FFFFFF !important;
+}
+
+.text-black {
+  color: #000 !important;
+}
+
+.text-black-75 {
+  color: #4b4b4b !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  color: #3c8946;
+  line-height: 18px;
+  text-transform: uppercase;
+  margin: 32px 11px;
+  padding: 0;
+  display: inline-block;
+}
+@media screen and (max-width: 992px) {
+  .navbar-light .navbar-nav .nav-link {
+    margin: 24px 20px;
+  }
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}
+
+.navbar-light .navbar-toggler-icon {
+  color: #3c8946;
+}
+
+@media screen and (max-width: 576px) {
+  .navbar-light {
+    box-shadow: 0px 1px 3px rgba(40, 68, 88, 0.22);
+  }
+}
+
+header .contact-link:hover {
+  color: #3c8946 !important;
+}
+header .contact-link:after {
+  content: " ";
+  display: block;
+  height: 2px;
+  margin: 0 auto;
+  position: relative;
+  top: 4px;
+  width: 0%;
+  background-color: #3c8946 !important;
+  transition: 0.4s;
+}
+
+.home-section {
+  background-image: url("../images/homesection.jpg");
+}
+.home-section .btn-sign-up {
+  font-family: "Microsoft Sans Serif", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 22px;
+}
+
+/*# sourceMappingURL=style.css.map */

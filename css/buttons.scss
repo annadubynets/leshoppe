@@ -1,0 +1,31 @@
+@import "variables";
+@import "mixins";
+
+// ------------------------
+// Bootstrap buttons
+// ------------------------
+.btn-success {
+  font-family: $font-family-main-sans;
+  font-weight: bold;
+  font-size: $font-size-xs;
+  line-height: 18px;
+  background-color: $green-70;
+  color: $white-color;
+  border-radius: 25px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  padding: 14px 22px;
+}
+
+.btn-success:active, .btn-success:focus, .btn-success:hover{
+  background-color: $white-color!important;
+  border-color: $green-70!important;
+  color: $green-70!important;
+  outline: none!important;
+  box-shadow: none;
+}
+
+.btn:active, .btn:focus{
+  outline: none!important;
+  box-shadow: none;
+}

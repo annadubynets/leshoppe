@@ -1,0 +1,12 @@
+.btn-danger {
+  background: #DE6A6A;
+  border-radius: 5px;
+  font-family: "Roboto-Bold", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  padding: 14px 22px;
+}
+
+/*# sourceMappingURL=buttons.css.map */

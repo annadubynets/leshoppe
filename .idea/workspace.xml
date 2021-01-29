@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42170110-71c4-4bb1-ba26-c8911bd92a01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/backgrounds.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navbars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/texts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MicrosoftSansSerif.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MicrosoftSansSerif.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MicrosoftSansSerif.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MicrosoftSansSerif.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MicrosoftSansSerif.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nk8vBNnhx9MFym53paIkstUZ02" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42170110-71c4-4bb1-ba26-c8911bd92a01" name="Default Changelist" comment="" />
+      <created>1611922955458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611922955458</updated>
+      <workItem from="1611922956488" duration="84000" />
+      <workItem from="1611923060758" duration="46000" />
+      <workItem from="1611923121506" duration="82000" />
+      <workItem from="1611923217798" duration="12000" />
+      <workItem from="1611923243790" duration="56000" />
+      <workItem from="1611923315163" duration="7000" />
+      <workItem from="1611923335759" duration="5000" />
+      <workItem from="1611923355902" duration="17000" />
+      <workItem from="1611923385447" duration="107000" />
+      <workItem from="1611923506608" duration="16000" />
+      <workItem from="1611923580485" duration="67000" />
+      <workItem from="1611923808169" duration="2405000" />
+      <workItem from="1611927205072" duration="1582000" />
+      <workItem from="1611930813416" duration="38000" />
+      <workItem from="1611930893321" duration="261000" />
+      <workItem from="1611931281976" duration="28000" />
+      <workItem from="1611931323444" duration="591000" />
+      <workItem from="1611932432378" duration="909000" />
+      <workItem from="1611933578619" duration="856000" />
+      <workItem from="1611934585780" duration="99000" />
+      <workItem from="1611934711065" duration="1087000" />
+      <workItem from="1611938748314" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="228" key="EditFileWatcherDialog" timestamp="1611923004043">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="391" y="228" key="EditFileWatcherDialog/0.23.1440.839@0.23.1440.839" timestamp="1611923004043" />
+  </component>
+</project>
