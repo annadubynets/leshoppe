@@ -109,7 +109,6 @@ h1 {
   line-height: 18px;
   background-color: #3c8946;
   color: #FFFFFF;
-  border-radius: 25px;
   letter-spacing: 0.3px;
   text-align: center;
   padding: 14px 22px;
@@ -167,6 +166,23 @@ h1 {
   padding: 0;
   display: inline-block;
 }
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #3c8946;
+}
+.navbar-light .navbar-nav .nav-link:after {
+  content: " ";
+  display: block;
+  height: 2px;
+  margin: 0 auto;
+  position: relative;
+  top: 4px;
+  width: 0;
+  background-color: #3c8946;
+  transition: 0.4s;
+}
+.navbar-light .navbar-nav .nav-link:hover:after {
+  width: 100%;
+}
 @media screen and (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link {
     margin: 24px 20px;
@@ -213,6 +229,29 @@ header .contact-link:after {
   color: #FFFFFF;
   text-align: center;
   padding: 14px 22px;
+}
+.home-section .btn-sign-up:active, .home-section .btn-sign-up:focus, .home-section .btn-sign-up:hover {
+  background-color: #FFFFFF !important;
+  border-color: #358640 !important;
+  color: #358640 !important;
+  outline: none !important;
+  box-shadow: none;
+}
+.home-section .btn-shop {
+  font-family: "Microsoft Sans Serif", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 22px;
+}
+.home-section .btn-shop:active, .home-section .btn-shop:focus, .home-section .btn-shop:hover {
+  background-color: #FFFFFF !important;
+  border-color: #a2c428 !important;
+  color: #a2c428 !important;
+  outline: none !important;
+  box-shadow: none;
 }
 
 /*# sourceMappingURL=style.css.map */

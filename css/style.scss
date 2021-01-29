@@ -39,4 +39,30 @@ header {
     text-align: center;
     padding: 14px 22px;
   }
+
+  .btn-sign-up:active, .btn-sign-up:focus, .btn-sign-up:hover{
+    background-color: $white-color!important;
+    border-color: $green-53!important;
+    color: $green-53!important;
+    outline: none!important;
+    box-shadow: none;
+  }
+
+  .btn-shop {
+    font-family: $font-family-main-sans;
+    font-weight: bold;
+    font-size: $font-size-lg;
+    line-height: 18px;
+    color: $white-color;
+    text-align: center;
+    padding: 14px 22px;
+  }
+
+  .btn-shop:active, .btn-shop:focus, .btn-shop:hover{
+    background-color: $white-color!important;
+    border-color: $green-40!important;
+    color: $green-40!important;
+    outline: none!important;
+    box-shadow: none;
+  }
 }

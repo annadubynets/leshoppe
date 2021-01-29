@@ -15,6 +15,23 @@
   margin: 32px 11px;
   padding: 0;
   display: inline-block;
+  &:hover {
+    color: $green-70;
+  }
+  &:after {
+    content: " ";
+    display: block;
+    height: 2px;
+    margin: 0 auto;
+    position: relative;
+    top: 4px;
+    width: 0;
+    background-color: $green-70;
+    transition: 0.4s;
+  }
+  &:hover:after {
+    width: 100%;
+  }
   @include max-screen($lg-screen) {
     margin: 24px 20px;
   }
